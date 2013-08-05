@@ -8,7 +8,7 @@ You'll want to simply use this gem to integrate it into your app.
 
 Add this line to your application's Gemfile:
 
-    gem 'typo-rails'
+    gem 'typo-rails', '~> 0.1.1'
 
 And then execute:
 
