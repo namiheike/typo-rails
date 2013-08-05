@@ -1,4 +1,4 @@
-require "typo-rails/version"
+require "rails/version"
 
 module Typo
   module Rails
